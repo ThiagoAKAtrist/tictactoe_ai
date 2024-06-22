@@ -1,6 +1,6 @@
 # TicTacToe with AI
 
-TicTacToe game with an implemented Minimax algorithm to play as an AI.
+TicTacToe game with an implemented Minimax algorithm to play as an AI against you.
 There is 2 levels of difficulty. One is normal, which you can win, and the other is impossible.
 
 ### Explanation
