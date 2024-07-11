@@ -7,3 +7,8 @@ There is 2 levels of difficulty. One is normal, which you can win, and the other
 The Minimax algorithm has a search depth parameter. With shallow search depths, the AI becomes 'weak,' but with deeper search depths, it becomes impossible to beat.
 #
 - To play as it is, you need to install the Live Server in your IDE.
+
+- Preview:
+<p align="center">
+  <img loading="lazy" src="https://github.com/ThiagoAKAtrist/tictactoe_ai/blob/main/tictactoe.png" width="600" height="600"/>
+</p>
