@@ -18,7 +18,7 @@ The Minimax algorithm has a search depth parameter. With shallow search depths, 
 #
 
 <p>
-&bull; To play as it is, you need to install the Live Server in your IDE.
+&bull; To play it, you need to run the code on your localhost.
 </p>
 
 <div align="center">
